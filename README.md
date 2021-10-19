@@ -6,7 +6,7 @@
 
 📚 Computer engineering @UBC
 
-💻 Interested in backend development and distributed systems
+💻 Interested in backend development, distributed systems, competitive programming
 
 ❤️ C++
 
