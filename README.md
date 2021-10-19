@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey, I am Efe 👋 
 
-<!--
-**efeberkeevci/efeberkeevci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Vancouver, BC
 
-Here are some ideas to get you started:
+📮 Ping Me: [Email](efeberkeevci@gmail.com) | [LinkedIn](https://www.linkedin.com/in/efe-evci) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Computer engineering @UBC
+
+💻 Interested in backend development and distributed systems
+
+❤️ C++
+
+### My LeetCode progress:
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=efeberkeevci&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
