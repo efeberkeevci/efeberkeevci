@@ -2,7 +2,7 @@
 
 📍 Vancouver, BC
 
-📮 Ping Me: [Email](efeberkeevci@gmail.com) | [LinkedIn](https://www.linkedin.com/in/efe-evci) 
+📮 Ping Me: [Email](mailto:efeberkeevci@gmail.com) | [LinkedIn](https://www.linkedin.com/in/efe-evci) 
 
 📚 Computer engineering @UBC
 
