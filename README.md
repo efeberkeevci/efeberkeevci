@@ -1,4 +1,4 @@
-# Hi there, I am Efe 👋 
+# Hi there👋, I am Efe 
 
 📍 Vancouver, BC
 
